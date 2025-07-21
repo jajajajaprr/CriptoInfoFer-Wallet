@@ -19,7 +19,7 @@ const CriptoNovaLogin = ({ onLoginSuccess, onRegisterClick }) => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white">
       <div className="bg-gray-800 p-8 rounded-2xl shadow-lg w-full max-w-sm border border-gray-700">
-        <h2 className="text-2xl font-bold text-center text-green-400 mb-6">CriptoNova</h2>
+        <h2 className="text-2xl font-bold text-center text-green-400 mb-6">CriptoWallet</h2>
         <div className="mb-4">
           <label className="block text-gray-400 text-sm font-medium mb-2" htmlFor="email">
             Correo Electrónico
